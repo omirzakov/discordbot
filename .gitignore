@@ -1,0 +1,6 @@
+
+# Игнорировать все файлы из modules
+/modules/**.*.js
+
+# игнорировать token.js
+token.js
